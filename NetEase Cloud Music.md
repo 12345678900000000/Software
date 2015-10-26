@@ -1,18 +1,18 @@
 #NetEase Cloud Music
                                     商务英语1401   李梦琪  201434028
 -----------------------------------------------------------------------------------------------------
-NetEase Cloud Music is a application which is focusing on the discovering and sharing music .
-Rely on professional musicians, DJS, Suggestions of friends and social function. On-line
-music service focus on song menus,social contact ,big recommendation，Music fingerprint. This
-application was first officially release in April 2013. According to the data of TalkingDate 
+NetEase Cloud Music is an application which is focused on the discovering and sharing music .
+relying on professional musicians, DJS, Suggestions of friends and social function. On-line
+music service focuses on song menus,social contact ,big recommendation，Music fingerprint. This
+application was first officially released in April 2013. According to the data of TalkingDate 
 mobile data research center, in January 2014 to September, NetEase Cloud Musicusers monthly 
-growth rate of 36.5% facilitate itselfin all music APP first, and surpass QQ music and other 
+growth rate of 36.5% facilitate itself in all music APP first, and surpass QQ music and other 
 products.
 
-To begin with ,when it comes to its popularity ,its‘ excellent functions play an important role .
-Open the NetEase Cloud Music you will find it with retro nostalgia vinyl and itself contains 
+To begin with ,when it comes to its popularity ,its excellent functions play an important role .
+Open the NetEase Cloud Music and you will find it with retro nostalgia vinyl and itself contains 
 quality, history, mellow and so on characteristics .The moment you listen to music ,it can recall 
-indeed the era of playing songs with records. The application is based onplaylists created by 
+indeed the era of playing songs with records. The application is based on playlists created by 
 users.Users can create, collect, share playlists according to their preference. Users can import 
 the original mobile phone address book, SNS relations, or with the aid of Netease Cloud Music 
 LBS functions to structure music social circle. Users can set up their own home page, you can focus 
@@ -32,11 +32,11 @@ Music ought to redesign the face in order to the size of every part become more 
 
 Last but not the least,I will talk about the demand with regard to NetEase Cloud Music .Because 
 Users can set up their own home page, and other people can focus on me, share music ,and my dynamic 
-present in real-time in this circle.But maybe sometimes I do not want someone to see the song 
-list that I create .In other word ,I do not would like all my information is publicly available .
+will present in real-time in this circle.But maybe sometimes I do not want someone to see the song 
+list that I create .In other words ,I do not would like all my information is publicly available .
 Follow on ,on account of love to one song list ,I collect the list .But after all , the list is 
 not created by myself .So I want to delete some songs from the list to make it perfect in my mind.
 However ,it is not sustaining that I delete songs from list after I have been collected it .
 
-I love to listening to music .And NetEase Cloud Music gives me much happy .I believe that NetEase 
+I love listening to music .And NetEase Cloud Music gives me much happy .I believe that NetEase 
 Cloud Music can have a bright new future .And I believe that more people like me will support it .
